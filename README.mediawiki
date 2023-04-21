@@ -1,0 +1,25 @@
+<h2>DIPs</h2>
+dPow and Notary Node Operations Improvement Proposals
+
+Welcome to the DIPs repo!
+
+This repository serves as a platform to facilitate discussion, collaboration and the review of proposed changes to the dPoW (delayed Proof of Work) technology and associated Notary Node operations. We believe that having an open and transparent process helps foster good governance and trust between the Komodo community and our development teams.
+Please read the DIP 0 below for further information and contribution guideline.
+We hope you find the DIP repository useful and that it helps to make Komodo a better platform. Thank you for your interest and support in our project.
+
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!Number
+!Layer
+!Title
+!Owner
+!Type
+!Status
+|- style="background-color: #ffcfcf"
+| [[dip-0000.mediawiki|0]]
+|
+| DIP Purpose and Guidelines
+| Kadan Stadelmann
+| Process
+| Discussion
+|}
