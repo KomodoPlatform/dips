@@ -1,13 +1,15 @@
 = DIP-XXXX : DIP Template =
 
-```
-Number:  DIP-XXXX
-Title:   DIP Template
-Type:    Informational
-Status:  Accepted
-Authors: smk <smk@komodoplatform.com>
-Created: 2023-04-20
-```
+
+
+  Number:  DIP-XXXX
+  Title:   DIP Template
+  Type:    Informational
+  Status:  Accepted
+  Authors: smk <smk@komodoplatform.com>
+  Created: 2023-04-20
+
+
 
 == Abstract ==
 
@@ -23,4 +25,4 @@ This is a section for a body. The title of the section should be changed and the
 
 == References ==
 
-This is a section for references such as links to other documents or to reference implementations. For more information about DIPs and the DIP workflow, refer to [https://github.com/bitcoin/bips/](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki)
+This is a section for references such as links to other documents or to reference implementations. For more information about DIPs and the DIP workflow, refer to <a href="https://github.com/bitcoin/bips/">https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki</a>
