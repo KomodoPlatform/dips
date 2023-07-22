@@ -3,8 +3,11 @@ dPow and Notary Node Operations Improvement Proposals
 
 Welcome to the DIPs repo!
 
-This repository serves as a platform to facilitate discussion, collaboration and the review of proposed changes to the <a href="https://developers.komodoplatform.com/basic-docs/start-here/core-technology-discussions/delayed-proof-of-work.html">dPoW (delayed Proof of Work)</a> technology and associated <a href="https://steemit.com/komodo/@komodoplatform/blockchain-security-the-role-of-a-notary-node">Notary Node</a> operations. We believe that having an open and transparent process helps foster good governance and trust between the <a href="https://komodoplatform.com/discord">Komodo community</a> and our <a href="https://github.com/orgs/KomodoPlatform/repositories">development teams</a>.
-Please read the DIP 0 below for further information and contribution guideline.
+This repository serves as a platform to facilitate discussion, collaboration and the review of proposed changes to the <a href="https://developers.komodoplatform.com/basic-docs/start-here/core-technology-discussions/delayed-proof-of-work.html">dPoW (delayed Proof of Work)</a> technology and associated <a href="https://steemit.com/komodo/@komodoplatform/blockchain-security-the-role-of-a-notary-node">Notary Node</a> operations.
+
+We believe that having an open and transparent process helps foster good governance and trust between the <a href="https://komodoplatform.com/discord">Komodo community</a> and our <a href="https://github.com/orgs/KomodoPlatform/repositories">development teams</a>.
+
+Please read the DIP 0 below for further information and contribution guidelines. For more information about the DIPs process, refer to the <a href="https://github.com/KomodoPlatform/dPoW/blob/add-dips/doc/bible.md#dpow-improvement-proposals">Notary Node Bible</a>.
 We hope you find the DIP repository useful and that it helps to make Komodo a better platform. Thank you for your interest and support in our project.
 
 
@@ -19,7 +22,7 @@ We hope you find the DIP repository useful and that it helps to make Komodo a be
 | [[dip-0000.mediawiki|0]]
 |
 | DIP Purpose and Guidelines
-| Kadan Stadelmann
+| smk
 | Process
 | Discussion
 |}
