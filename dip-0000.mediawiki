@@ -2,12 +2,12 @@
 <pre>
   DIP: 0
   Title: DIP Purpose and Guidelines
-  Author: Kadan Stadelmann <ca333@komodoplatform.com>
+  Author: smk <smk@komodoplatform.com>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/komodoplatform/dips/wiki/Comments:DIP-0000
   Status: Discussion
   Type: Process
-  Created: 2023-01-30
+  Created: 2023-06-30
   Superseded-By: 1
 </pre>
 
